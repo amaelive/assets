@@ -1,0 +1,15 @@
+.DS_Store
+*code-workspace
+.env
+
+# Local Netlify folder
+.netlify
+
+# build output
+dist/
+.output/
+
+# dependencies
+node_modules/
+
+

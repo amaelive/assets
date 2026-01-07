@@ -1,0 +1,1243 @@
+{
+  "items": [
+    {
+      "id": 240028,
+      "status": "published",
+      "name": "Elite Enterprises Conference 2028",
+      "url": "elite-enterprises-conference",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2028-01-16",
+      "start_time": "18:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 116,
+      "regCount": 96,
+      "type_id": {
+        "id": 4,
+        "value": "Expo"
+      },
+      "location": {
+        "name": "Tech Innovation Hub",
+        "city": "Austin"
+      },
+      "c_86135": "https://picsum.photos/seed/event28/800/400",
+      "c_86432": [
+        {
+          "id": 101,
+          "value": "Technology"
+        },
+        {
+          "id": 104,
+          "value": "Innovation"
+        },
+        {
+          "id": 106,
+          "value": "Sales"
+        }
+      ]
+    },
+    {
+      "id": 240001,
+      "status": "published",
+      "name": "Global Dynamics Gala 2027",
+      "url": "global-dynamics-gala",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2027-12-23",
+      "start_time": "09:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 300,
+      "regCount": 101,
+      "type_id": {
+        "id": 3,
+        "value": "Webinar"
+      },
+      "location": {
+        "name": "City Conference Center",
+        "city": "San Francisco"
+      },
+      "c_86135": "https://picsum.photos/seed/event1/800/400",
+      "c_86432": [
+        {
+          "id": 101,
+          "value": "Technology"
+        },
+        {
+          "id": 104,
+          "value": "Innovation"
+        }
+      ]
+    },
+    {
+      "id": 240022,
+      "status": "published",
+      "name": "Zenith Group Annual Meeting 2027",
+      "url": "zenith-group-annual-meeting",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2027-12-04",
+      "start_time": "14:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "Europe/London",
+      "capacity": 80,
+      "regCount": 27,
+      "type_id": {
+        "id": 2,
+        "value": "Workshop"
+      },
+      "location": {
+        "name": "Grand Pavilion",
+        "city": "Amsterdam"
+      },
+      "c_86135": "https://picsum.photos/seed/event22/800/400",
+      "c_86432": [
+        {
+          "id": 101,
+          "value": "Technology"
+        },
+        {
+          "id": 104,
+          "value": "Innovation"
+        }
+      ]
+    },
+    {
+      "id": 240011,
+      "status": "published",
+      "name": "Vanguard Solutions Meetup 2027",
+      "url": "vanguard-solutions-meetup",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2027-11-23",
+      "start_time": "18:00:00",
+      "end_date": "2027-11-15",
+      "end_time": "14:00:00",
+      "timezone": "America/New_York",
+      "capacity": 438,
+      "regCount": 305,
+      "type_id": {
+        "id": 1,
+        "value": "Conference"
+      },
+      "location": {
+        "name": "The Gallery",
+        "city": "Boston"
+      },
+      "c_86135": "https://picsum.photos/seed/event11/800/400",
+      "c_86432": [
+        {
+          "id": 101,
+          "value": "Technology"
+        },
+        {
+          "id": 102,
+          "value": "Marketing"
+        }
+      ]
+    },
+    {
+      "id": 240026,
+      "status": "published",
+      "name": "Synergy Labs Meetup 2027",
+      "url": "synergy-labs-meetup",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2027-11-20",
+      "start_time": "18:00:00",
+      "end_date": "2027-12-22",
+      "end_time": "13:00:00",
+      "timezone": "America/New_York",
+      "capacity": 267,
+      "regCount": 101,
+      "type_id": {
+        "id": 5,
+        "value": "Networking"
+      },
+      "location": {
+        "name": "Online",
+        "city": "Virtual"
+      },
+      "c_86135": "https://picsum.photos/seed/event26/800/400",
+      "c_86432": [
+        {
+          "id": 101,
+          "value": "Technology"
+        },
+        {
+          "id": 102,
+          "value": "Marketing"
+        },
+        {
+          "id": 106,
+          "value": "Sales"
+        }
+      ]
+    },
+    {
+      "id": 240031,
+      "status": "published",
+      "name": "Nexus Ventures Forum 2027",
+      "url": "nexus-ventures-forum",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2027-11-14",
+      "start_time": "14:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 474,
+      "regCount": 261,
+      "type_id": {
+        "id": 2,
+        "value": "Workshop"
+      },
+      "location": {
+        "name": "Summit Convention Hall",
+        "city": "Seattle"
+      },
+      "c_86135": "https://picsum.photos/seed/event31/800/400",
+      "c_86432": [
+        {
+          "id": 101,
+          "value": "Technology"
+        },
+        {
+          "id": 102,
+          "value": "Marketing"
+        }
+      ]
+    },
+    {
+      "id": 240025,
+      "status": "published",
+      "name": "Eclipse Holdings Showcase 2027",
+      "url": "eclipse-holdings-showcase",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2027-11-09",
+      "start_time": "13:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 391,
+      "regCount": 27,
+      "type_id": {
+        "id": 1,
+        "value": "Conference"
+      },
+      "location": {
+        "name": "The Grand Hall",
+        "city": "New York"
+      },
+      "c_86135": "https://picsum.photos/seed/event25/800/400",
+      "c_86432": [
+        {
+          "id": 104,
+          "value": "Innovation"
+        }
+      ]
+    },
+    {
+      "id": 240013,
+      "status": "published",
+      "name": "Elite Enterprises Annual Meeting 2027",
+      "url": "elite-enterprises-annual-meeting",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2027-11-07",
+      "start_time": "13:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "Europe/London",
+      "capacity": 162,
+      "regCount": 162,
+      "type_id": {
+        "id": 3,
+        "value": "Webinar"
+      },
+      "location": {
+        "name": "Grand Pavilion",
+        "city": "Amsterdam"
+      },
+      "c_86135": "https://picsum.photos/seed/event13/800/400",
+      "c_86432": []
+    },
+    {
+      "id": 240032,
+      "status": "published",
+      "name": "Summit Strategies Launch Event 2027",
+      "url": "summit-strategies-launch-event",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2027-08-19",
+      "start_time": "18:00:00",
+      "end_date": "2027-09-01",
+      "end_time": "09:00:00",
+      "timezone": "America/New_York",
+      "capacity": 128,
+      "regCount": 34,
+      "type_id": {
+        "id": 3,
+        "value": "Webinar"
+      },
+      "location": {
+        "name": "Metropolitan Plaza",
+        "city": "Chicago"
+      },
+      "c_86135": "https://picsum.photos/seed/event32/800/400",
+      "c_86432": [
+        {
+          "id": 103,
+          "value": "Leadership"
+        },
+        {
+          "id": 101,
+          "value": "Technology"
+        }
+      ]
+    },
+    {
+      "id": 240016,
+      "status": "published",
+      "name": "Elite Enterprises Gala 2027",
+      "url": "elite-enterprises-gala",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2027-08-18",
+      "start_time": "14:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 363,
+      "regCount": 349,
+      "type_id": {
+        "id": 1,
+        "value": "Conference"
+      },
+      "location": {
+        "name": "Platinum Gallery",
+        "city": "Miami"
+      },
+      "c_86135": "https://picsum.photos/seed/event16/800/400",
+      "c_86432": []
+    },
+    {
+      "id": 240010,
+      "status": "published",
+      "name": "InnovateTech Seminar 2027",
+      "url": "innovatetech-seminar",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2027-06-20",
+      "start_time": "10:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "Europe/London",
+      "capacity": 485,
+      "regCount": 49,
+      "type_id": {
+        "id": 1,
+        "value": "Conference"
+      },
+      "location": {
+        "name": "Grand Pavilion",
+        "city": "Amsterdam"
+      },
+      "c_86135": "https://picsum.photos/seed/event10/800/400",
+      "c_86432": [
+        {
+          "id": 104,
+          "value": "Innovation"
+        },
+        {
+          "id": 106,
+          "value": "Sales"
+        }
+      ]
+    },
+    {
+      "id": 240020,
+      "status": "published",
+      "name": "Vanguard Solutions Seminar 2027",
+      "url": "vanguard-solutions-seminar",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2027-06-02",
+      "start_time": "14:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 270,
+      "regCount": 9,
+      "type_id": {
+        "id": 5,
+        "value": "Networking"
+      },
+      "location": {
+        "name": "Platinum Gallery",
+        "city": "Miami"
+      },
+      "c_86135": "https://picsum.photos/seed/event20/800/400",
+      "c_86432": [
+        {
+          "id": 103,
+          "value": "Leadership"
+        },
+        {
+          "id": 106,
+          "value": "Sales"
+        },
+        {
+          "id": 102,
+          "value": "Marketing"
+        }
+      ]
+    },
+    {
+      "id": 240035,
+      "status": "published",
+      "name": "Fusion Technologies Summit 2027",
+      "url": "fusion-technologies-summit",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2027-05-21",
+      "start_time": "10:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 427,
+      "regCount": 39,
+      "type_id": {
+        "id": 1,
+        "value": "Conference"
+      },
+      "location": {
+        "name": "Platinum Gallery",
+        "city": "Miami"
+      },
+      "c_86135": "https://picsum.photos/seed/event35/800/400",
+      "c_86432": [
+        {
+          "id": 105,
+          "value": "Networking"
+        }
+      ]
+    },
+    {
+      "id": 240008,
+      "status": "published",
+      "name": "Eclipse Holdings Convention 2027",
+      "url": "eclipse-holdings-convention",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2027-02-04",
+      "start_time": "13:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 182,
+      "regCount": 104,
+      "type_id": {
+        "id": 1,
+        "value": "Conference"
+      },
+      "location": {
+        "name": "City Conference Center",
+        "city": "San Francisco"
+      },
+      "c_86135": "https://picsum.photos/seed/event8/800/400",
+      "c_86432": [
+        {
+          "id": 101,
+          "value": "Technology"
+        },
+        {
+          "id": 102,
+          "value": "Marketing"
+        },
+        {
+          "id": 103,
+          "value": "Leadership"
+        }
+      ]
+    },
+    {
+      "id": 240005,
+      "status": "published",
+      "name": "Aurora Industries Showcase 2027",
+      "url": "aurora-industries-showcase",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2027-01-12",
+      "start_time": "10:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 464,
+      "regCount": 136,
+      "type_id": {
+        "id": 2,
+        "value": "Workshop"
+      },
+      "location": {
+        "name": "The Grand Hall",
+        "city": "New York"
+      },
+      "c_86135": "https://picsum.photos/seed/event5/800/400",
+      "c_86432": []
+    },
+    {
+      "id": 240023,
+      "status": "published",
+      "name": "Zenith Group Annual Meeting 2026",
+      "url": "zenith-group-annual-meeting",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2026-12-21",
+      "start_time": "18:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 359,
+      "regCount": 18,
+      "type_id": {
+        "id": 4,
+        "value": "Expo"
+      },
+      "location": {
+        "name": "Online",
+        "city": "Virtual"
+      },
+      "c_86135": "https://picsum.photos/seed/event23/800/400",
+      "c_86432": [
+        {
+          "id": 106,
+          "value": "Sales"
+        }
+      ]
+    },
+    {
+      "id": 240019,
+      "status": "published",
+      "name": "Vanguard Solutions Gala 2026",
+      "url": "vanguard-solutions-gala",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2026-11-07",
+      "start_time": "18:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 277,
+      "regCount": 246,
+      "type_id": {
+        "id": 5,
+        "value": "Networking"
+      },
+      "location": {
+        "name": "Platinum Gallery",
+        "city": "Miami"
+      },
+      "c_86135": "https://picsum.photos/seed/event19/800/400",
+      "c_86432": [
+        {
+          "id": 106,
+          "value": "Sales"
+        },
+        {
+          "id": 101,
+          "value": "Technology"
+        }
+      ]
+    },
+    {
+      "id": 240002,
+      "status": "published",
+      "name": "Eclipse Holdings Meetup 2026",
+      "url": "eclipse-holdings-meetup",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2026-10-21",
+      "start_time": "09:00:00",
+      "end_date": "2026-10-20",
+      "end_time": "18:00:00",
+      "timezone": "America/New_York",
+      "capacity": 184,
+      "regCount": 176,
+      "type_id": {
+        "id": 5,
+        "value": "Networking"
+      },
+      "location": {
+        "name": "City Conference Center",
+        "city": "San Francisco"
+      },
+      "c_86135": "https://picsum.photos/seed/event2/800/400",
+      "c_86432": []
+    },
+    {
+      "id": 240038,
+      "status": "published",
+      "name": "Global Dynamics Retreat 2026",
+      "url": "global-dynamics-retreat",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2026-08-15",
+      "start_time": "18:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 171,
+      "regCount": 84,
+      "type_id": {
+        "id": 4,
+        "value": "Expo"
+      },
+      "location": {
+        "name": "Metropolitan Plaza",
+        "city": "Chicago"
+      },
+      "c_86135": "https://picsum.photos/seed/event38/800/400",
+      "c_86432": []
+    },
+    {
+      "id": 240014,
+      "status": "published",
+      "name": "Synergy Labs Webinar 2026",
+      "url": "synergy-labs-webinar",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2026-08-03",
+      "start_time": "10:00:00",
+      "end_date": "2026-09-28",
+      "end_time": "14:00:00",
+      "timezone": "Europe/London",
+      "capacity": 434,
+      "regCount": 284,
+      "type_id": {
+        "id": 4,
+        "value": "Expo"
+      },
+      "location": {
+        "name": "Royal Exhibition Centre",
+        "city": "London"
+      },
+      "c_86135": "https://picsum.photos/seed/event14/800/400",
+      "c_86432": []
+    },
+    {
+      "id": 240029,
+      "status": "published",
+      "name": "Pioneer Systems Expo 2026",
+      "url": "pioneer-systems-expo",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2026-07-05",
+      "start_time": "14:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 242,
+      "regCount": 53,
+      "type_id": {
+        "id": 5,
+        "value": "Networking"
+      },
+      "location": {
+        "name": "Platinum Gallery",
+        "city": "Miami"
+      },
+      "c_86135": "https://picsum.photos/seed/event29/800/400",
+      "c_86432": [
+        {
+          "id": 101,
+          "value": "Technology"
+        },
+        {
+          "id": 102,
+          "value": "Marketing"
+        }
+      ]
+    },
+    {
+      "id": 240017,
+      "status": "published",
+      "name": "Aurora Industries Gala 2026",
+      "url": "aurora-industries-gala",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2026-06-01",
+      "start_time": "09:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 121,
+      "regCount": 106,
+      "type_id": {
+        "id": 1,
+        "value": "Conference"
+      },
+      "location": {
+        "name": "The Luxe Centre",
+        "city": "Denver"
+      },
+      "c_86135": "https://picsum.photos/seed/event17/800/400",
+      "c_86432": [
+        {
+          "id": 101,
+          "value": "Technology"
+        }
+      ]
+    },
+    {
+      "id": 240037,
+      "status": "published",
+      "name": "Prime Networks Forum 2026",
+      "url": "prime-networks-forum",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2026-05-04",
+      "start_time": "09:00:00",
+      "end_date": "2026-05-04",
+      "end_time": "14:00:00",
+      "timezone": "America/New_York",
+      "capacity": 128,
+      "regCount": 128,
+      "type_id": {
+        "id": 1,
+        "value": "Conference"
+      },
+      "location": {
+        "name": "The Grand Hall",
+        "city": "New York"
+      },
+      "c_86135": "https://picsum.photos/seed/event37/800/400",
+      "c_86432": [
+        {
+          "id": 105,
+          "value": "Networking"
+        },
+        {
+          "id": 104,
+          "value": "Innovation"
+        }
+      ]
+    },
+    {
+      "id": 240007,
+      "status": "published",
+      "name": "Aurora Industries Meetup 2026",
+      "url": "aurora-industries-meetup",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2026-02-27",
+      "start_time": "13:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 241,
+      "regCount": 21,
+      "type_id": {
+        "id": 2,
+        "value": "Workshop"
+      },
+      "location": {
+        "name": "Metropolitan Plaza",
+        "city": "Chicago"
+      },
+      "c_86135": "https://picsum.photos/seed/event7/800/400",
+      "c_86432": [
+        {
+          "id": 105,
+          "value": "Networking"
+        },
+        {
+          "id": 104,
+          "value": "Innovation"
+        },
+        {
+          "id": 106,
+          "value": "Sales"
+        }
+      ]
+    },
+    {
+      "id": 240034,
+      "status": "published",
+      "name": "Vertex Solutions Launch Event 2026",
+      "url": "vertex-solutions-launch-event",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2026-02-25",
+      "start_time": "10:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 52,
+      "regCount": 0,
+      "type_id": {
+        "id": 1,
+        "value": "Conference"
+      },
+      "location": {
+        "name": "Platinum Gallery",
+        "city": "Miami"
+      },
+      "c_86135": "https://picsum.photos/seed/event34/800/400",
+      "c_86432": [
+        {
+          "id": 104,
+          "value": "Innovation"
+        },
+        {
+          "id": 103,
+          "value": "Leadership"
+        }
+      ]
+    },
+    {
+      "id": 240004,
+      "status": "published",
+      "name": "Vertex Solutions Webinar 2026",
+      "url": "vertex-solutions-webinar",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2026-02-09",
+      "start_time": "09:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 258,
+      "regCount": 244,
+      "type_id": {
+        "id": 5,
+        "value": "Networking"
+      },
+      "location": {
+        "name": "Online",
+        "city": "Virtual"
+      },
+      "c_86135": "https://picsum.photos/seed/event4/800/400",
+      "c_86432": []
+    },
+    {
+      "id": 240033,
+      "status": "published",
+      "name": "Elite Enterprises Symposium 2025",
+      "url": "elite-enterprises-symposium",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2025-09-27",
+      "start_time": "13:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 85,
+      "regCount": 49,
+      "type_id": {
+        "id": 4,
+        "value": "Expo"
+      },
+      "location": {
+        "name": "The Gallery",
+        "city": "Boston"
+      },
+      "c_86135": "https://picsum.photos/seed/event33/800/400",
+      "c_86432": [
+        {
+          "id": 105,
+          "value": "Networking"
+        },
+        {
+          "id": 101,
+          "value": "Technology"
+        },
+        {
+          "id": 106,
+          "value": "Sales"
+        }
+      ]
+    },
+    {
+      "id": 240000,
+      "status": "published",
+      "name": "InnovateTech Expo 2025",
+      "url": "innovatetech-expo",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2025-09-14",
+      "start_time": "18:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 482,
+      "regCount": 1,
+      "type_id": {
+        "id": 1,
+        "value": "Conference"
+      },
+      "location": {
+        "name": "The Gallery",
+        "city": "Boston"
+      },
+      "c_86135": "https://picsum.photos/seed/event0/800/400",
+      "c_86432": [
+        {
+          "id": 104,
+          "value": "Innovation"
+        },
+        {
+          "id": 103,
+          "value": "Leadership"
+        }
+      ]
+    },
+    {
+      "id": 240006,
+      "status": "published",
+      "name": "Pioneer Systems Meetup 2025",
+      "url": "pioneer-systems-meetup",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2025-08-10",
+      "start_time": "09:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 499,
+      "regCount": 499,
+      "type_id": {
+        "id": 3,
+        "value": "Webinar"
+      },
+      "location": {
+        "name": "Metropolitan Plaza",
+        "city": "Chicago"
+      },
+      "c_86135": "https://picsum.photos/seed/event6/800/400",
+      "c_86432": [
+        {
+          "id": 102,
+          "value": "Marketing"
+        },
+        {
+          "id": 101,
+          "value": "Technology"
+        }
+      ]
+    },
+    {
+      "id": 240018,
+      "status": "published",
+      "name": "InnovateTech Seminar 2025",
+      "url": "innovatetech-seminar",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2025-05-24",
+      "start_time": "09:00:00",
+      "end_date": "2025-06-03",
+      "end_time": "18:00:00",
+      "timezone": "America/New_York",
+      "capacity": 434,
+      "regCount": 122,
+      "type_id": {
+        "id": 3,
+        "value": "Webinar"
+      },
+      "location": {
+        "name": "Summit Convention Hall",
+        "city": "Seattle"
+      },
+      "c_86135": "https://picsum.photos/seed/event18/800/400",
+      "c_86432": [
+        {
+          "id": 101,
+          "value": "Technology"
+        },
+        {
+          "id": 102,
+          "value": "Marketing"
+        },
+        {
+          "id": 106,
+          "value": "Sales"
+        }
+      ]
+    },
+    {
+      "id": 240027,
+      "status": "published",
+      "name": "Aurora Industries Expo 2025",
+      "url": "aurora-industries-expo",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2025-05-17",
+      "start_time": "13:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 217,
+      "regCount": 32,
+      "type_id": {
+        "id": 4,
+        "value": "Expo"
+      },
+      "location": {
+        "name": "Metropolitan Plaza",
+        "city": "Chicago"
+      },
+      "c_86135": "https://picsum.photos/seed/event27/800/400",
+      "c_86432": [
+        {
+          "id": 101,
+          "value": "Technology"
+        }
+      ]
+    },
+    {
+      "id": 240030,
+      "status": "published",
+      "name": "Global Dynamics Forum 2025",
+      "url": "global-dynamics-forum",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2025-04-17",
+      "start_time": "09:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 367,
+      "regCount": 367,
+      "type_id": {
+        "id": 5,
+        "value": "Networking"
+      },
+      "location": {
+        "name": "The Gallery",
+        "city": "Boston"
+      },
+      "c_86135": "https://picsum.photos/seed/event30/800/400",
+      "c_86432": [
+        {
+          "id": 101,
+          "value": "Technology"
+        }
+      ]
+    },
+    {
+      "id": 240012,
+      "status": "published",
+      "name": "Aurora Industries Annual Meeting 2025",
+      "url": "aurora-industries-annual-meeting",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2025-03-27",
+      "start_time": "10:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 305,
+      "regCount": 219,
+      "type_id": {
+        "id": 4,
+        "value": "Expo"
+      },
+      "location": {
+        "name": "The Grand Hall",
+        "city": "New York"
+      },
+      "c_86135": "https://picsum.photos/seed/event12/800/400",
+      "c_86432": [
+        {
+          "id": 104,
+          "value": "Innovation"
+        }
+      ]
+    },
+    {
+      "id": 240039,
+      "status": "published",
+      "name": "Summit Strategies Meetup 2025",
+      "url": "summit-strategies-meetup",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2025-03-09",
+      "start_time": "14:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 345,
+      "regCount": 211,
+      "type_id": {
+        "id": 2,
+        "value": "Workshop"
+      },
+      "location": {
+        "name": "The Luxe Centre",
+        "city": "Denver"
+      },
+      "c_86135": "https://picsum.photos/seed/event39/800/400",
+      "c_86432": [
+        {
+          "id": 106,
+          "value": "Sales"
+        },
+        {
+          "id": 105,
+          "value": "Networking"
+        },
+        {
+          "id": 104,
+          "value": "Innovation"
+        }
+      ]
+    },
+    {
+      "id": 240036,
+      "status": "published",
+      "name": "Quantum Innovations Convention 2025",
+      "url": "quantum-innovations-convention",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2025-02-06",
+      "start_time": "18:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 272,
+      "regCount": 272,
+      "type_id": {
+        "id": 4,
+        "value": "Expo"
+      },
+      "location": {
+        "name": "Platinum Gallery",
+        "city": "Miami"
+      },
+      "c_86135": "https://picsum.photos/seed/event36/800/400",
+      "c_86432": []
+    },
+    {
+      "id": 240024,
+      "status": "published",
+      "name": "Fusion Technologies Expo 2024",
+      "url": "fusion-technologies-expo",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2024-12-21",
+      "start_time": "10:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 195,
+      "regCount": 183,
+      "type_id": {
+        "id": 5,
+        "value": "Networking"
+      },
+      "location": {
+        "name": "The Grand Hall",
+        "city": "New York"
+      },
+      "c_86135": "https://picsum.photos/seed/event24/800/400",
+      "c_86432": [
+        {
+          "id": 105,
+          "value": "Networking"
+        }
+      ]
+    },
+    {
+      "id": 240003,
+      "status": "published",
+      "name": "Nexus Ventures Gala 2024",
+      "url": "nexus-ventures-gala",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2024-06-06",
+      "start_time": "10:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 350,
+      "regCount": 106,
+      "type_id": {
+        "id": 1,
+        "value": "Conference"
+      },
+      "location": {
+        "name": "The Luxe Centre",
+        "city": "Denver"
+      },
+      "c_86135": "https://picsum.photos/seed/event3/800/400",
+      "c_86432": []
+    },
+    {
+      "id": 240009,
+      "status": "published",
+      "name": "Summit Strategies Workshop 2024",
+      "url": "summit-strategies-workshop",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2024-04-12",
+      "start_time": "09:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "Europe/London",
+      "capacity": 293,
+      "regCount": 70,
+      "type_id": {
+        "id": 4,
+        "value": "Expo"
+      },
+      "location": {
+        "name": "Royal Exhibition Centre",
+        "city": "London"
+      },
+      "c_86135": "https://picsum.photos/seed/event9/800/400",
+      "c_86432": [
+        {
+          "id": 104,
+          "value": "Innovation"
+        }
+      ]
+    },
+    {
+      "id": 240021,
+      "status": "published",
+      "name": "Quantum Innovations Annual Meeting 2024",
+      "url": "quantum-innovations-annual-meeting",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2024-02-10",
+      "start_time": "13:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 156,
+      "regCount": 156,
+      "type_id": {
+        "id": 2,
+        "value": "Workshop"
+      },
+      "location": {
+        "name": "City Conference Center",
+        "city": "San Francisco"
+      },
+      "c_86135": "https://picsum.photos/seed/event21/800/400",
+      "c_86432": [
+        {
+          "id": 101,
+          "value": "Technology"
+        },
+        {
+          "id": 105,
+          "value": "Networking"
+        }
+      ]
+    },
+    {
+      "id": 240015,
+      "status": "published",
+      "name": "Prime Networks Showcase 2024",
+      "url": "prime-networks-showcase",
+      "domain": "https://demo.swoogo.com",
+      "start_date": "2024-01-15",
+      "start_time": "09:00:00",
+      "end_date": null,
+      "end_time": null,
+      "timezone": "America/New_York",
+      "capacity": 298,
+      "regCount": 81,
+      "type_id": {
+        "id": 1,
+        "value": "Conference"
+      },
+      "location": {
+        "name": "Metropolitan Plaza",
+        "city": "Chicago"
+      },
+      "c_86135": "https://picsum.photos/seed/event15/800/400",
+      "c_86432": [
+        {
+          "id": 104,
+          "value": "Innovation"
+        },
+        {
+          "id": 106,
+          "value": "Sales"
+        },
+        {
+          "id": 102,
+          "value": "Marketing"
+        }
+      ]
+    }
+  ]
+}
